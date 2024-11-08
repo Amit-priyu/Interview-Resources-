@@ -1,8 +1,6 @@
 Object Oriented Programming Notes - Last Minute Revision ✅
 Here we have last minute revision notes of object oriented programming language. These questions will familiarize you with the most important object-oriented programming concepts and help you ace your job interviews 🙌
 
-Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more ❤️❤️
-linkedin logo youtube logo telegram logo instagram logo whatsapp logo
 Most Asked OOPS Interview Questions
 1: What is OBJECT-ORIENTED PROGRAMMING?
 Answer: Object-oriented programming is a programming paradigm built on the concept of objects.
